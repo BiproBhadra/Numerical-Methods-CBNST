@@ -1,4 +1,4 @@
-//C Program to Implement Gauss Elimination Method
+//C Program to Implement Gauss Elimination Method to find out the Determinant of a n*n Matrix.
 
 #include <stdio.h>
 #include <math.h>
