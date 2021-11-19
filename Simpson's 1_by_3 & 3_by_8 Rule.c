@@ -1,3 +1,5 @@
+//C program to implent both Simpons 1/3 and 3/8 method
+
 #include <math.h>
 #include <stdio.h>
 
