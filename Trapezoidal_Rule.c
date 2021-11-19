@@ -28,5 +28,5 @@ void main()
  
 float f(float x)
 {
- return(sin(x)*sin(x));
+ return(sin(x)*sin(x));      //here we have done for the function sin^2(x)
 }
